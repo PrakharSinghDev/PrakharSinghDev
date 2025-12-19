@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakharsinghdev&label=Profile%20views&color=0e75b6&style=flat" alt="prakharsinghdev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakharsinghdev" alt="prakharsinghdev" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/prakharsinghdev" target="blank"><img src="https://img.shields.io/twitter/follow/prakharsinghdev?logo=twitter&style=for-the-badge" alt="prakharsinghdev" /></a> </p>
 
 - 🔭 I’m currently a **Computer Science Undergrad Student**

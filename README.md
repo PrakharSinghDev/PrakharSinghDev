@@ -7,10 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/prakharsinghdev" target="blank"><img src="https://img.shields.io/twitter/follow/prakharsinghdev?logo=twitter&style=for-the-badge" alt="prakharsinghdev" /></a> </p>
 
-- 🔭 I’m currently a **Computer Science Undergrad Student**
-
-- 🌱 I’m currently learning **AI, DevOps, Cloud and Cloud Native Tools**
-
 - 👨‍💻 Checkout my Personal Website [www.prakhars.me](https://www.prakhars.me/)
 
 - 📝 I regularly write articles on [blog.prakhars.me](https://blog.prakhars.me/)

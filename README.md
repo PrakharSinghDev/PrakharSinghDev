@@ -20,3 +20,8 @@
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakharsinghdev&label=Profile%20views&color=0e75b6&style=flat" alt="prakharsinghdev" /> </p>
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&text=Let's%20build%20something%20great.&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70" />
+</div>
